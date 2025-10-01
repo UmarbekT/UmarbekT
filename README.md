@@ -35,9 +35,7 @@
 🎨 **TypeScript Dekoratorlari To‘plami** — maxsus dekoratorlar bilan amaliyot  
 
 
-## 📊 GitHub Statistikam  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmarbekT&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarbekT&layout=compact&theme=tokyonight)  
 
 ---
