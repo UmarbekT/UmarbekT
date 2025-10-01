@@ -41,7 +41,7 @@
 ---
 
 ## 📫 Aloqa uchun    
-- 💬 [Telegram](@Toshmamatov_Umarbek)  
+- 💬 [Telegram]@Toshmamatov_Umarbek  
 - 📧 **umarbektoshmamatov@gmail.com**  
 
 ---
