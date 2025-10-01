@@ -1,7 +1,7 @@
-# 👋 Salom, men Umar!  
+# 👋 Salom, men Umarbek!  
 
 ## 🎯 Men haqimda  
-👨‍💻 IT yo‘limni 2022-yilda boshladim  
+👨‍💻 IT yo‘limni 2024-yilda boshladim  
 
 🚀 Backend dasturlash va TypeScript’ga qiziqaman  
 
