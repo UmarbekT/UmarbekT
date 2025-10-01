@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Salom, men Umar!  
 
-<!--
-**UmarbekT/UmarbekT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Men haqimda  
+👨‍💻 IT yo‘limni 2022-yilda boshladim  
 
-Here are some ideas to get you started:
+🚀 Backend dasturlash va TypeScript’ga qiziqaman  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Hozirda **Node.js, NestJS, PostgreSQL, Prisma, MangoDB, Mongoose va Express** bilan ishlayapman  
+
+---
+
+## 🛠 Texnologiyalar va Asboblar  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+## 📚 Hozir o‘rganayotganim  
+- Kengaytirilgan TypeScript tushunchalari  
+- NestJS Framework & eng yaxshi amaliyotlar  
+- Mikroservis arxitekturasi  
+- Toza kod prinsiplari  
+---
+
+## 🏗 Loyihalarim  
+🔥 **Ko‘p mijozli Chatbot Tizimi** — to‘liq Rollarga asoslangan Kirish Nazorati (RBAC) bilan  
+
+🛒 **E-commerce API** — NestJS + PostgreSQL + TypeORM yordamida yaratilgan  
+
+🎨 **TypeScript Dekoratorlari To‘plami** — maxsus dekoratorlar bilan amaliyot  
+
+
+## 📊 GitHub Statistikam  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Aloqa uchun    
+- 💬 [Telegram](#toshmamatov_Umarbek)  
+- 📧 **umarbektoshmamatov@gmail.com**  
+
+---
+
